@@ -1,0 +1,15 @@
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\bin\Debug\net6.0\task_54.exe
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\bin\Debug\net6.0\task_54.deps.json
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\bin\Debug\net6.0\task_54.runtimeconfig.json
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\bin\Debug\net6.0\task_54.dll
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\bin\Debug\net6.0\task_54.pdb
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\task_54.csproj.AssemblyReference.cache
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\task_54.GeneratedMSBuildEditorConfig.editorconfig
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\task_54.AssemblyInfoInputs.cache
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\task_54.AssemblyInfo.cs
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\task_54.csproj.CoreCompileInputs.cache
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\task_54.dll
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\refint\task_54.dll
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\task_54.pdb
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\task_54.genruntimeconfig.cache
+C:\ЗАКРОМА\GeekBrains\ДомЗадания\C#\Homework_8\task_54\obj\Debug\net6.0\ref\task_54.dll
